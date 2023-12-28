@@ -1,2 +1,2 @@
 # Proxmox
-My repository for Proxmox files
+My repository for Proxmox usage
